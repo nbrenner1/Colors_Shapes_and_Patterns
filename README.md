@@ -1,0 +1,1 @@
+This program demonstrates multiple file programming in the C language and the use of header files. A list of shapes, patterns and colors are printed as well as every possible combination of those three attributes. 
